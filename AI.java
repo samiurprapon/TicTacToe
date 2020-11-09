@@ -3,7 +3,7 @@
  *
  * STUDENTS: Nothing to change here.
  *
- * @author INSERT YOUR NAME(S) HERE Tanveer Ahmed.
+ * @Tanveer Ahmed.
  */
 
 public interface AI {
