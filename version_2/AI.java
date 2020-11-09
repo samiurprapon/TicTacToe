@@ -3,7 +3,7 @@
  *
  * STUDENTS: Nothing to change here.
  *
- * @Tanveer Ahmed.
+ * @Tanveer Ahmed
  */
 
 public interface AI {
