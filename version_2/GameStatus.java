@@ -1,7 +1,7 @@
 /**
  * Enum type representing the possible states of a running game.
  *
- * STUDENTS: Tanveer Ahmed
+ * STUDENTS:Tanveer Ahmed
  *
  * @author Andrew Vardy
  */

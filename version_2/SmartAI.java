@@ -1,7 +1,7 @@
 /**
  * Realization of AI interface using smart strategy [NOT IMPLEMENTED].
  *
- * STUDENTS:Tanveer Ahmed
+ * STUDENTS: Tanveer Ahmed
  *
  * @author Andrew Vardy
  */
